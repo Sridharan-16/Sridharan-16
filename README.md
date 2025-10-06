@@ -1,6 +1,6 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:5B247A,50:1BCDFC,100:5B247A&height=180&section=header&text=SRIDHARAN%20I&fontSize=65&fontColor=FFFFFF&animation=scaleIn&fontAlignY=48&desc=AI%20%26%20ML%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20CSE%20Student&descAlignY=70&descSize=16" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=SRIDHARAN%20I&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20CSE%20Student&descAlignY=55&descSize=18" alt="header"/>
 </div>
 
 <!-- ========== TYPING ANIMATION ========== -->
@@ -209,5 +209,7 @@ Open to collaboration on AI/ML projects and full-stack development opportunities
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BCDFC,100:5B247A&height=120&section=footer" />
+  
+**Thanks for visiting! ⭐ Feel free to explore my repositories**
+
 </div>
