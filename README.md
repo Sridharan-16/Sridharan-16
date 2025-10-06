@@ -1,89 +1,143 @@
-<h1 align="center">Sridharan I</h1>
-<h3 align="center">CSE (AI & ML) Student</h3>
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=100&section=header&text=SRIDHARAN%20I&fontSize=40&fontColor=ffffff&fontAlignY=55" alt="header" />
+</div>
 
-<p align="center">
-  A passionate AI and full-stack developer with hands-on experience in programming, internships, and competitions.
-</p>
+<!-- INTRO CARD -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="600" align="center" style="border: 2px solid #0A66C2; border-radius: 12px; padding: 15px;">
+        <h3>About Me</h3>
+        <p>
+          Passionate <strong>CSE (AI & ML)</strong> student focused on creating intelligent systems and real-world software solutions.
+          Skilled in <strong>Full Stack Development</strong> and <strong>Applied Machine Learning</strong>.  
+          Completed internship at <strong>IIT Dharwad</strong> and participated in multiple technical competitions.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## About Me
-- **Education**: Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning.
-- **Programming Languages**: Python, C, C++, JavaScript, Java.
-- **Full Stack Development**: HTML5, CSS3, JavaScript, Node.js, Express.js, SQL.
-- **Experience**: Internship at IIT Dharwad; Participated in various competitions.
-- **AI/ML Skills**: NumPy, Pandas, Scikit-learn, TensorFlow.
+---
 
-## Contact
-- **Email**: kit27.am53@gmail.com
-- **LinkedIn**: [Sridharan I](https://www.linkedin.com/in/sridharan-i16/)
-- **Portfolio**: [My Portfolio](https://my-portfolio-ten-silk-86.vercel.app/)
-- **Codolio**: [Sridharan_16](https://codolio.com/profile/Sridharan_16)
+<!-- STATS GRID -->
+<div align="center">
 
-## Skills
-### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+<table>
+<tr>
+<td width="400" align="center">
+  
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sridharan-16&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+</td>
+<td width="400" align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+  <h3>🔥 Contribution Heatmap</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sridharan-16&theme=github-compact&hide_border=true" height="180"/>
 
-### Database
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white)
-![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-
-### AI/ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-## GitHub Stats
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <div style="flex: 1; max-width: 440px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharan-16&layout=compact&theme=github_dark" />
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharan-16&layout=compact&theme=github" />
-    </picture>
-  </div>
-
-  <div style="flex: 1; max-width: 440px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sridharan-16&show_icons=true&theme=github_dark" />
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sridharan-16&show_icons=true&theme=github" />
-    </picture>
-  </div>
-
-  <div style="flex: 1; max-width: 440px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sridharan-16&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
-      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Sridharan-16&theme=github-light&date_format=M%20j%5B%2C%20Y%5D" />
-    </picture>
-  </div>
+</td>
+</tr>
+</table>
 
 </div>
 
-## Contribution Heatmap
+---
+
+<!-- TECH STACK CARD -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sridharan-16&theme=github-dark&hide_border=true&area=true" />
-    <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sridharan-16&theme=github&hide_border=true&area=true" />
-  </picture>
+  <table>
+    <tr>
+      <td width="800" align="center" style="border: 2px solid #0A66C2; border-radius: 12px; padding: 10px;">
+        <h3>🧩 Technical Stack</h3>
+
+| **Domain** | **Technologies** |
+|:------------:|:----------------|
+| **Languages** | C, C++, C#, Python, JavaScript, Java |
+| **Frontend** | HTML5, CSS3, React |
+| **Backend** | Node.js, Express.js |
+| **Database** | SQL |
+| **AI / ML Tools** | NumPy, Pandas, Scikit-learn, TensorFlow |
+| **Platforms / Tools** | Git, VS Code, Arduino IDE, Visual Studio 2022, Raspberry Pi, Arduino |
+
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- PROJECTS SECTION -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="800" align="center" style="border: 2px solid #0A66C2; border-radius: 12px; padding: 10px;">
+        <h3>💼 Featured Projects</h3>
+
+| **Project** | **Description** | **Link** |
+|:-------------|:----------------|:----------|
+| **Portfolio Website** | Personal responsive portfolio built with Node.js and modern web stack | [View](https://my-portfolio-ten-silk-86.vercel.app/) |
+| **Codolio Profile** | Profile showcasing problem-solving and coding proficiency | [View](https://codolio.com/profile/Sridharan_16) |
+| **AI/ML Works** | Experimental projects on model building, TensorFlow, and Scikit-learn | — |
+
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- EXPERIENCE & EDUCATION -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="800" align="center" style="border: 2px solid #0A66C2; border-radius: 12px; padding: 10px;">
+        <h3>🎓 Experience & Learning</h3>
+        <ul align="left">
+          <li>🎯 Internship at <strong>IIT Dharwad</strong> focusing on applied AI & ML.</li>
+          <li>🏆 Active participant in coding and innovation competitions.</li>
+          <li>📚 Building knowledge in AI-driven software systems and embedded tech using Raspberry Pi & Arduino.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- CONTACT SECTION -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="800" align="center" style="border: 2px solid #0A66C2; border-radius: 12px; padding: 10px;">
+        <h3>📫 Connect With Me</h3>
+
+| Platform | Link |
+|:----------|:------|
+| **Email** | [kit27.am53@gmail.com](mailto:kit27.am53@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/sridharan-i16](https://www.linkedin.com/in/sridharan-i16/) |
+| **Portfolio** | [my-portfolio-ten-silk-86.vercel.app](https://my-portfolio-ten-silk-86.vercel.app/) |
+| **Codolio** | [codolio.com/profile/Sridharan_16](https://codolio.com/profile/Sridharan_16) |
+
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+  <sub>
+    Designed & Developed by <strong>Sridharan I</strong>  
+    <br>
+    <sup>Adaptive to your system theme (Light / Dark) • Solid design • Minimal and dynamic</sup>
+  </sub>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=40&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=14&fontColor=ffffff" alt="footer" />
 </div>
