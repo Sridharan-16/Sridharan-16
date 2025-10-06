@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=180&section=header&text=SRI%20KISHORE&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=180&section=header&text=SRIDHARAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About Me***
 
-I’m **Sri Kishore**, a passionate **Computer Science & AI enthusiast** focused on **AI-driven systems**, **Computer Vision**, and **Full-Stack Web Development**.  
+I’m **Sridharan**, a passionate **Computer Science & AI enthusiast** focused on **AI-driven systems**, **Computer Vision**, and **Full-Stack Web Development**.  
 I love exploring, experimenting, and bringing ideas to life through code 💡
 
 - 🔭 Currently working on **AI + IoT systems** for smart detection and automation  
