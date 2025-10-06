@@ -1,124 +1,135 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=180&section=header&text=Sridharan%20I&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&fontWeight=700" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=180&section=header&text=Sridharan%20I&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&noShadow=true" alt="Solid Navy Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1a1a1a&center=true&vCenter=true&width=800&lines=CSE+(AI+%26+ML)+Student;Full-Stack+Developer+%7C+AI+Enthusiast;Intern+%40+IIT+Dharwad;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1e3a8a&center=true&vCenter=true&width=800&lines=CSE%20(AI%26ML)%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Intern%20at%20IIT%20Dharwad%20%7C%20Competitive%20Programmer" alt="Typing Summary" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216901585-5a5b6c2f-3e4b-4a5a-8c1a-5e7b7b7b7b7b.gif" width="35" />
-  <strong>About Me</strong>
-</div>
-
-<div align="center" style="background: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; margin: 16px 0; max-width: 800px;">
-  <p style="margin: 0; line-height: 1.5; font-size: 16px;">
-    As a dedicated CSE (AI & ML) student, I specialize in programming languages like Python, C, C++, JavaScript, and Java. Proficient in full-stack development with HTML5, CSS3, JavaScript, Node.js, Express.js, and SQL. Completed an internship at IIT Dharwad and participated in numerous competitions, honing my problem-solving skills.
-  </p>
-</div>
-
-<div align="center" style="margin: 16px 0;">
-  <a href="mailto:kit27.am53@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=1a1a1a" alt="Gmail" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/sridharan-i16/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=1a1a1a" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://my-portfolio-ten-silk-86.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=1a1a1a" alt="Portfolio" /></a>&nbsp;
-  <a href="https://codolio.com/profile/Sridharan_16"><img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=github&logoColor=white&color=1a1a1a" alt="Codolio" /></a>
-</div>
+---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216901585-5a5b6c2f-3e4b-4a5a-8c1a-5e7b7b7b7b7b.gif" width="35" />
-  <strong>Skills</strong>
-</div>
 
-<table align="center" style="margin: 8px 0; border-spacing: 4px;">
-  <tr>
-    <td align="center" style="background: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 6px; padding: 8px; min-width: 120px;">
-      <strong>Languages</strong><br>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=1a1a1a" alt="C" />&nbsp;
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=1a1a1a" alt="C++" />&nbsp;
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white&color=1a1a1a" alt="C#" />&nbsp;
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54&color=1a1a1a" alt="Python" />&nbsp;
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=1a1a1a" alt="JS" />&nbsp;
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=1a1a1a" alt="Java" />
-    </td>
-    <td align="center" style="background: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 6px; padding: 8px; min-width: 120px;">
-      <strong>Frontend</strong><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=1a1a1a" alt="HTML5" />&nbsp;
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1a1a1a" alt="CSS3" />&nbsp;
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=1a1a1a" alt="React" />
-    </td>
-    <td align="center" style="background: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 6px; padding: 8px; min-width: 120px;">
-      <strong>Backend</strong><br>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=1a1a1a" alt="Node.js" />&nbsp;
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express.js&logoColor=white&color=1a1a1a" alt="Express.js" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="background: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 6px; padding: 8px; min-width: 120px;">
-      <strong>Database</strong><br>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&color=1a1a1a" alt="SQL" />
-    </td>
-    <td align="center" style="background: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 6px; padding: 8px; min-width: 120px;">
-      <strong>Tools & Platforms</strong><br>
-      <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white&color=1a1a1a" alt="Git" />&nbsp;
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=1a1a1a" alt="VS Code" />&nbsp;
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&color=1a1a1a" alt="Arduino" />&nbsp;
-      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&color=1a1a1a" alt="Visual Studio 2022" />&nbsp;
-      <img src="https://img.shields.io/badge/Raspberry_Pi-B01E1E?style=for-the-badge&logo=raspberrypi&logoColor=white&color=1a1a1a" alt="Raspberry Pi" />
-    </td>
-    <td align="center" style="background: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 6px; padding: 8px; min-width: 120px;">
-      <strong>AI/ML</strong><br>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=1a1a1a" alt="NumPy" />&nbsp;
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=1a1a1a" alt="Pandas" />&nbsp;
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&color=1a1a1a" alt="Scikit-learn" />&nbsp;
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=1a1a1a" alt="TensorFlow" />
-    </td>
-  </tr>
+### About Me
+<table border="1" style="border-collapse: collapse; width: 100%; border-color: #1e3a8a;">
+<tr><td style="padding: 15px; text-align: left; background-color: #f8fafc;">
+I'm a dedicated **Computer Science and Engineering (AI & ML)** student with hands-on experience in building scalable applications and AI models. Passionate about turning ideas into code, I've completed an internship at **IIT Dharwad** focusing on AI-driven projects and participated in numerous coding competitions to sharpen my problem-solving skills.<br><br>
+**Core Expertise:**
+- Programming: Python, C, C++, JavaScript, Java, C#
+- Full-Stack: HTML5, CSS3, React, Node.js, Express.js, SQL
+- AI/ML: Exploratory models using NumPy, Pandas, Scikit-Learn, TensorFlow<br><br>
+Currently exploring advanced AI applications and edge computing with Raspberry Pi & Arduino. Let's connect to collaborate!<br><br>
+**Contact:** <a href="mailto:kit27.am53@gmail.com">kit27.am53@gmail.com</a>
+</td></tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216901585-5a5b6c2f-3e4b-4a5a-8c1a-5e7b7b7b7b7b.gif" width="35" />
-  <strong>GitHub Stats</strong>
-</div>
+### Skills
+<table border="1" style="border-collapse: collapse; width: 100%; border-color: #1e3a8a; margin-top: 10px;">
+<tr>
+<td style="padding: 10px; text-align: center; background-color: #f8fafc;">
 
-<table align="center" style="margin: 8px 0; border-spacing: 8px;">
-  <tr>
-    <td width="50%" align="center" style="background: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=Sridharan-16&theme=tokyonight&show_icons=true&count_private=true&border_radius=12" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=Sridharan-16&theme=radical&show_icons=true&count_private=true&border_radius=12" media="(prefers-color-scheme: light)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Sridharan-16&theme=radical&show_icons=true&count_private=true&border_radius=12" alt="GitHub Stats" />
-      </picture>
-    </td>
-    <td width="50%" align="center" style="background: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharan-16&theme=tokyonight&hide_border=false&langs_count=8&border_radius=12&layout=compact" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharan-16&theme=radical&hide_border=false&langs_count=8&border_radius=12&layout=compact" media="(prefers-color-scheme: light)" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharan-16&theme=radical&hide_border=false&langs_count=8&border_radius=12&layout=compact" alt="Top Languages" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" align="center" colspan="2" style="background: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
-      <picture>
-        <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sridharan-16&theme=tokyonight&hide_border=false&border_radius=12&background=transparent" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sridharan-16&theme=radical&hide_border=false&border_radius=12&background=transparent" media="(prefers-color-scheme: light)" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sridharan-16&theme=radical&hide_border=false&border_radius=12&background=transparent" alt="Streak Stats (Heatmap)" />
-      </picture>
-    </td>
-  </tr>
+#### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+#### Database
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+#### AI/ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</td>
+</tr>
 </table>
 
-<div align="center" style="margin-top: 16px; background: #f6f8fa; border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <picture>
-      <source srcset="https://github-profile-trophy.vercel.app/?username=Sridharan-16&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&border_radius=12" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-profile-trophy.vercel.app/?username=Sridharan-16&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&border_radius=12" media="(prefers-color-scheme: light)" />
-      <img src="https://github-profile-trophy.vercel.app/?username=Sridharan-16&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&border_radius=12" alt="Trophies" width="84%" />
-    </picture>
-  </a>
+### Connect With Me
+<table border="1" style="border-collapse: collapse; width: 100%; border-color: #1e3a8a; margin-top: 10px;">
+<tr><td style="padding: 10px; text-align: center; background-color: #f8fafc;">
+<a href="mailto:kit27.am53@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=1e3a8a" /></a>
+<a href="https://www.linkedin.com/in/sridharan-i16/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=1e3a8a" /></a>
+<a href="https://my-portfolio-ten-silk-86.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=1e3a8a" /></a>
+<a href="https://codolio.com/profile/Sridharan_16"><img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=github&logoColor=white&color=1e3a8a" /></a>
+</td></tr>
+</table>
+
 </div>
 
-<hr style="border: 1px solid #1a1a1a; margin: 24px 0;" />
-<div align="center" style="font-size: 14px; color: #6a737d;">
-  <p>Designed with precision for seamless light/dark mode adaptation | Powered by GitHub</p>
+---
+
+<div align="center">
+
+### GitHub Stats
+<table align="center" style="border-collapse: collapse; width: 100%; border: 1px solid #1e3a8a; margin-top: 10px;">
+<tr>
+<td width="50%" align="center" style="padding: 10px; background-color: #f8fafc;">
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Sridharan-16&theme=nightowl&show_icons=true&count_private=true&border_color=1e3a8a" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=Sridharan-16&theme=default&show_icons=true&count_private=true&border_color=1e3a8a" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sridharan-16&theme=default&show_icons=true&count_private=true&border_color=1e3a8a" alt="GitHub Stats" />
+</picture>
+
+</td>
+<td width="50%" align="center" style="padding: 10px; background-color: #f8fafc;">
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharan-16&theme=nightowl&hide_border=false&langs_count=8&border_color=1e3a8a" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharan-16&theme=default&hide_border=false&langs_count=8&border_color=1e3a8a" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharan-16&theme=default&hide_border=false&langs_count=8&border_color=1e3a8a" alt="Top Languages" />
+</picture>
+
+</td>
+</tr>
+<tr>
+<td width="100%" align="center" colspan="2" style="padding: 10px; background-color: #f8fafc;">
+
+<picture>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sridharan-16&theme=nightowl&hide_border=false&border_color=1e3a8a" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sridharan-16&theme=default&hide_border=false&border_color=1e3a8a" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sridharan-16&theme=default&hide_border=false&border_color=1e3a8a" alt="GitHub Streak (Heatmap)" />
+</picture>
+
+</td>
+</tr>
+</table>
+
+### Profile Trophies
+<table border="1" style="border-collapse: collapse; width: 100%; border-color: #1e3a8a; margin-top: 10px;">
+<tr><td align="center" style="padding: 10px; background-color: #f8fafc;">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sridharan-16&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&border=1e3a8a" alt="Trophies" width="90%" />
+</a>
+</td></tr>
+</table>
+
 </div>
+
+---
+
+<footer align="center" style="margin-top: 10px; color: #1e3a8a;">
+  <small>© 2024 Sridharan I. Built with ❤️ for Open Source.</small>
+</footer>
