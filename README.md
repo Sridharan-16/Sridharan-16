@@ -1,11 +1,11 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B247A,50:1BCDFC,100:5B247A&height=200&section=header&text=SRIDHARAN%20I&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:5B247A,50:1BCDFC,100:5B247A&height=180&section=header&text=SRIDHARAN%20I&fontSize=65&fontColor=FFFFFF&animation=scaleIn&fontAlignY=48&desc=AI%20%26%20ML%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20CSE%20Student&descAlignY=70&descSize=16" alt="header"/>
 </div>
 
 <!-- ========== TYPING ANIMATION ========== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=1BCDFC&center=true&vCenter=true&width=600&lines=AI+and+Machine+Learning+Developer;Full+Stack+Engineer;CSE+(AI%26ML)+Student;IIT+Dharwad+Research+Intern" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=1BCDFC&center=true&vCenter=true&width=550&lines=AI+and+Machine+Learning+Developer;Full+Stack+Engineer;IIT+Dharwad+Research+Intern;Building+Intelligent+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -46,44 +46,50 @@ I am a Computer Science Engineering student specializing in Artificial Intellige
 
 ### Core Technologies
 
-**Programming Languages**
+#### Programming Languages
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,java&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,java&theme=light">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,java&theme=light" />
-</picture>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+</p>
 
-**Web Development**
+#### Web Development
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=light">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=light" />
-</picture>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
 ### Specialized Skills
 
-**AI and Machine Learning**
+#### AI and Machine Learning
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,python&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,python&theme=light">
-  <img src="https://skillicons.dev/icons?i=tensorflow,python&theme=light" />
-</picture>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+</p>
 
 Libraries: TensorFlow, Scikit-learn, NumPy, Pandas
 
-**Development Tools**
+#### Development Tools
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,vscode,visualstudio,raspberrypi,arduino&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,vscode,visualstudio,raspberrypi,arduino&theme=light">
-  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,raspberrypi,arduino&theme=light" />
-</picture>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="Raspberry Pi" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino" />
+</p>
 
 </td>
 </tr>
@@ -192,30 +198,16 @@ Development of classification and prediction models using advanced ML techniques
 
 Open to collaboration on AI/ML projects and full-stack development opportunities.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-1BCDFC?style=flat&logo=gmail&logoColor=white">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-5B247A?style=flat&logo=gmail&logoColor=white">
-  <a href="mailto:kit27.am53@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B247A?style=flat&logo=gmail&logoColor=white" /></a>
-</picture>
+<br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-1BCDFC?style=flat&logo=linkedin&logoColor=white">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-1BCDFC?style=flat&logo=linkedin&logoColor=white">
-  <a href="https://www.linkedin.com/in/sridharan-i16/"><img src="https://img.shields.io/badge/LinkedIn-1BCDFC?style=flat&logo=linkedin&logoColor=white" /></a>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-1BCDFC?style=flat&logo=vercel&logoColor=white">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-5B247A?style=flat&logo=vercel&logoColor=white">
-  <a href="https://my-portfolio-ten-silk-86.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5B247A?style=flat&logo=vercel&logoColor=white" /></a>
-</picture>
+[![Gmail](https://img.shields.io/badge/Gmail-5B247A?style=flat&logo=gmail&logoColor=white)](mailto:kit27.am53@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1BCDFC?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridharan-i16/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5B247A?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-ten-silk-86.vercel.app/)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1BCDFC,100:5B247A&height=4&section=footer" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1BCDFC,50:5B247A,100:1BCDFC&height=150&section=footer&animation=blinking" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BCDFC,100:5B247A&height=120&section=footer" />
 </div>
