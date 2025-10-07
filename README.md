@@ -17,12 +17,6 @@
 
 ## Professional Summary
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-  <img alt="Coding" width="400" align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-</picture>
-
 I am a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, focused on developing intelligent systems and scalable solutions. With hands-on experience from my internship at IIT Dharwad and proficiency across the full technology stack, I combine theoretical knowledge with practical implementation skills in AI/ML and web development.
 
 <div align="center">
