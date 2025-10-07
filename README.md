@@ -1,16 +1,16 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=SRIDHARAN%20I&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20CSE%20Student&descAlignY=55&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=24&amp;height=200&amp;section=header&amp;text=SRIDHARAN%20I&amp;fontSize=70&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20ML%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20CSE%20Student&amp;descAlignY=55&amp;descSize=18" alt="header"/>
 </div>
 
 <!-- ========== TYPING ANIMATION ========== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=1BCDFC&center=true&vCenter=true&width=550&lines=AI+and+Machine+Learning+Developer;Full+Stack+Engineer;IIT+Dharwad+Research+Intern;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=4000&amp;pause=1000&amp;color=1BCDFC&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=AI+and+Machine+Learning+Developer;Full+Stack+Engineer;IIT+Dharwad+Research+Intern;Building+Intelligent+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sridharan-16&label=Profile%20Views&color=1BCDFC&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Sridharan-16?label=Followers&style=flat&color=5B247A" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Sridharan-16&amp;label=Profile%20Views&amp;color=1BCDFC&amp;style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Sridharan-16?label=Followers&amp;style=flat&amp;color=5B247A" alt="followers" />
 </p>
 
 ---
@@ -27,10 +27,10 @@ I am a Computer Science Engineering student specializing in Artificial Intellige
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-kit27.am53%40gmail.com-5B247A?style=flat&logo=gmail&logoColor=white)](mailto:kit27.am53@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sridharan--I16-1BCDFC?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridharan-i16/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-5B247A?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-ten-silk-86.vercel.app/)
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-1BCDFC?style=flat&logo=codepen&logoColor=white)](https://codolio.com/profile/Sridharan_16)
+[![Email](https://img.shields.io/badge/Email-kit27.am53%40gmail.com-5B247A?style=flat&amp;logo=gmail&amp;logoColor=white)](mailto:kit27.am53@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sridharan--I16-1BCDFC?style=flat&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/sridharan-i16/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-5B247A?style=flat&amp;logo=vercel&amp;logoColor=white)](https://my-portfolio-ten-silk-86.vercel.app/)
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-1BCDFC?style=flat&amp;logo=codepen&amp;logoColor=white)](https://codolio.com/profile/Sridharan_16)
 
 </div>
 
@@ -139,15 +139,15 @@ Development of classification and prediction models using advanced ML techniques
 <div align="center">
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sridharan-16&show_icons=true&theme=tokyonight&hide_border=true&title_color=1BCDFC&icon_color=5B247A&text_color=FFFFFF&bg_color=0D1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sridharan-16&show_icons=true&theme=default&hide_border=true&title_color=5B247A&icon_color=1BCDFC&text_color=2C3E50&bg_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sridharan-16&show_icons=true&theme=default&hide_border=true&title_color=5B247A&icon_color=1BCDFC&text_color=2C3E50&bg_color=FFFFFF" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sridharan-16&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=1BCDFC&amp;icon_color=5B247A&amp;text_color=FFFFFF&amp;bg_color=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sridharan-16&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;title_color=5B247A&amp;icon_color=1BCDFC&amp;text_color=2C3E50&amp;bg_color=FFFFFF" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sridharan-16&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;title_color=5B247A&amp;icon_color=1BCDFC&amp;text_color=2C3E50&amp;bg_color=FFFFFF" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sridharan-16&theme=tokyonight&hide_border=true&ring=1BCDFC&fire=5B247A&currStreakLabel=1BCDFC&background=0D1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sridharan-16&theme=default&hide_border=true&ring=5B247A&fire=1BCDFC&currStreakLabel=5B247A&background=FFFFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sridharan-16&theme=default&hide_border=true&ring=5B247A&fire=1BCDFC&currStreakLabel=5B247A&background=FFFFFF" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sridharan-16&amp;theme=tokyonight&amp;hide_border=true&amp;ring=1BCDFC&amp;fire=5B247A&amp;currStreakLabel=1BCDFC&amp;background=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sridharan-16&amp;theme=default&amp;hide_border=true&amp;ring=5B247A&amp;fire=1BCDFC&amp;currStreakLabel=5B247A&amp;background=FFFFFF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sridharan-16&amp;theme=default&amp;hide_border=true&amp;ring=5B247A&amp;fire=1BCDFC&amp;currStreakLabel=5B247A&amp;background=FFFFFF" />
 </picture>
 
 </div>
@@ -155,9 +155,9 @@ Development of classification and prediction models using advanced ML techniques
 <div align="center" style="margin-top: 20px;">
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharan-16&layout=compact&theme=tokyonight&hide_border=true&title_color=1BCDFC&text_color=FFFFFF&bg_color=0D1117&langs_count=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharan-16&layout=compact&theme=default&hide_border=true&title_color=5B247A&text_color=2C3E50&bg_color=FFFFFF&langs_count=6" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharan-16&layout=compact&theme=default&hide_border=true&title_color=5B247A&text_color=2C3E50&bg_color=FFFFFF&langs_count=6" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharan-16&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=1BCDFC&amp;text_color=FFFFFF&amp;bg_color=0D1117&amp;langs_count=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharan-16&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;title_color=5B247A&amp;text_color=2C3E50&amp;bg_color=FFFFFF&amp;langs_count=6" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridharan-16&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;title_color=5B247A&amp;text_color=2C3E50&amp;bg_color=FFFFFF&amp;langs_count=6" />
 </picture>
 
 </div>
@@ -169,9 +169,9 @@ Development of classification and prediction models using advanced ML techniques
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sridharan-16&custom_title=Contribution%20Activity&bg_color=0D1117&color=1BCDFC&line=5B247A&point=FFFFFF&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sridharan-16&custom_title=Contribution%20Activity&bg_color=FFFFFF&color=5B247A&line=1BCDFC&point=2C3E50&area=true&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sridharan-16&custom_title=Contribution%20Activity&bg_color=FFFFFF&color=5B247A&line=1BCDFC&point=2C3E50&area=true&hide_border=true" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sridharan-16&amp;custom_title=Contribution%20Activity&amp;bg_color=0D1117&amp;color=1BCDFC&amp;line=5B247A&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sridharan-16&amp;custom_title=Contribution%20Activity&amp;bg_color=FFFFFF&amp;color=5B247A&amp;line=1BCDFC&amp;point=2C3E50&amp;area=true&amp;hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sridharan-16&amp;custom_title=Contribution%20Activity&amp;bg_color=FFFFFF&amp;color=5B247A&amp;line=1BCDFC&amp;point=2C3E50&amp;area=true&amp;hide_border=true" width="95%" />
 </picture>
 
 </div>
@@ -200,9 +200,9 @@ Open to collaboration on AI/ML projects and full-stack development opportunities
 
 <br><br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-5B247A?style=flat&logo=gmail&logoColor=white)](mailto:kit27.am53@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1BCDFC?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridharan-i16/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5B247A?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-ten-silk-86.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-5B247A?style=flat&amp;logo=gmail&amp;logoColor=white)](mailto:kit27.am53@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1BCDFC?style=flat&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/sridharan-i16/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5B247A?style=flat&amp;logo=vercel&amp;logoColor=white)](https://my-portfolio-ten-silk-86.vercel.app/)
 
 </div>
 
@@ -210,6 +210,6 @@ Open to collaboration on AI/ML projects and full-stack development opportunities
 
 <div align="center">
   
-**Thanks for visiting! ⭐ Feel free to explore my repositories**
+**⭐ Thanks for visiting! Feel free to explore my repositories.**
 
 </div>
