@@ -1,11 +1,11 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=24&amp;height=200&amp;section=header&amp;text=SRIDHARAN%20I&amp;fontSize=70&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20ML%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20CSE%20Student&amp;descAlignY=55&amp;descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:5B247A,50:1BCDFC,100:5B247A&amp;height=200&amp;section=header&amp;text=SRIDHARAN%20I&amp;fontSize=55&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=40" alt="header"/>
 </div>
 
 <!-- ========== TYPING ANIMATION ========== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=4000&amp;pause=1000&amp;color=1BCDFC&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=AI+and+Machine+Learning+Developer;Full+Stack+Engineer;IIT+Dharwad+Research+Intern;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=4000&amp;pause=1000&amp;color=1BCDFC&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=AI+and+Machine+Learning+Developer;Full+Stack+Engineer;Building+Intelligent+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">
