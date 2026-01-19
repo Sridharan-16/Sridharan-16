@@ -32,7 +32,7 @@ I am a Computer Science Engineering student specializing in Artificial Intellige
 
 ---
 
-## Technical Expertise
+## Technical Experience
 
 <table width="100%">
 <tr>
@@ -89,6 +89,14 @@ Libraries: TensorFlow, Scikit-learn, NumPy, Pandas
 </tr>
 </table>
 
+---
+## 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sridharan-16/Sridharan-16/main/profile-3d-contrib/profile-night-view.svg"
+       width="100%"
+       alt="3D GitHub Contribution Calendar"/>
+</p>
 ---
 
 ## Key Projects
@@ -171,15 +179,6 @@ Development of classification and prediction models using advanced ML techniques
 </div>
 
 ---
-
-## 3D Contribution Calendar
-
-<div align="center">
-
-<img src="https://github.com/Sridharan-16/Sridharan-16/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub Contributions"/>
-
-</div>
-
 ## Professional Development
 
 <div align="center">
