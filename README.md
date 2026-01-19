@@ -86,16 +86,18 @@ Libraries: TensorFlow, Scikit-learn, NumPy, Pandas
 </p>
 
 </td>
-</tr>
-</table>
-
-## 3D Contribution Calendar
+<td align="center">
+#### 3D Contribution Calendar
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sridharan-16/Sridharan-16/main/profile-3d-contrib/profile-night-view.svg"
        width="100%"
        alt="3D GitHub Contribution Calendar"/>
 </p>
+</td>
+</tr>
+</table>
+
 ---
 
 ## Key Projects
