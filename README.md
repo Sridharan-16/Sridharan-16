@@ -172,6 +172,14 @@ Development of classification and prediction models using advanced ML techniques
 
 ---
 
+## 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://github.com/Sridharan-16/Sridharan-16/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub Contributions"/>
+
+</div>
+
 ## Professional Development
 
 <div align="center">
