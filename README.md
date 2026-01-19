@@ -36,7 +36,7 @@ I am a Computer Science Engineering student specializing in Artificial Intellige
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ### Core Technologies
 
@@ -62,7 +62,7 @@ I am a Computer Science Engineering student specializing in Artificial Intellige
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 ### Specialized Skills
 
@@ -73,7 +73,6 @@ I am a Computer Science Engineering student specializing in Artificial Intellige
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
 </p>
 
-Libraries: TensorFlow, Scikit-learn, NumPy, Pandas
 
 #### Development Tools
 
@@ -86,14 +85,16 @@ Libraries: TensorFlow, Scikit-learn, NumPy, Pandas
 </p>
 
 </td>
-<td align="center">
+<td width = "40%" align="center">
+  
 #### 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sridharan-16/Sridharan-16/main/profile-3d-contrib/profile-night-view.svg"
-       width="100%"
+  <img src="https://raw.githubusercontent.com/Sridharan-16/Sridharan-16/main/profile-3d-contrib/profile-season.svg"
+       width="95%"
        alt="3D GitHub Contribution Calendar"/>
 </p>
+
 </td>
 </tr>
 </table>
