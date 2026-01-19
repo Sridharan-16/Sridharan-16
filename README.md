@@ -89,7 +89,6 @@ Libraries: TensorFlow, Scikit-learn, NumPy, Pandas
 </tr>
 </table>
 
----
 ## 3D Contribution Calendar
 
 <p align="center">
