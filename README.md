@@ -87,13 +87,15 @@ I am a Computer Science Engineering student specializing in Artificial Intellige
 </td>
 <td width = "40%" align="center">
   
-#### 3D Contribution Calendar
+### 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sridharan-16/Sridharan-16/main/profile-3d-contrib/profile-season.svg"
-       width="95%"
-       alt="3D GitHub Contribution Calendar"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sridharan-16/Sridharan-16/main/profile-3d-contrib/profile-night-green.svg">
+    <img src="https://raw.githubusercontent.com/Sridharan-16/Sridharan-16/main/profile-3d-contrib/profile-green.svg" width="90%">
+  </picture>
 </p>
+
 
 </td>
 </tr>
