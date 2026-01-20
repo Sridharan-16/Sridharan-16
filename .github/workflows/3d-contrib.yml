@@ -11,19 +11,23 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          username: Sridharan-16
+          theme: transparent
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Sridharan-16
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add .
-          git commit -m "Generated 3D contribution graph" || echo "No changes to commit"
+          git add profile-3d-contrib
+          git commit -m "Generated transparent 3D contribution graph" || echo "No changes to commit"
           git push
